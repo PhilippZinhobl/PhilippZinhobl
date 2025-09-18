@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td><img src=".logo.jpg" width="48" alt="PolixerRPG" /></td>
+    <td><img src="./logo.jpg" width="48" alt="PolixerRPG" /></td>
     <td>
       <strong>Founder & Developer</strong><br />
       <em>PolixerRPG</em><br />

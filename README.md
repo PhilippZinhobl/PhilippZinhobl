@@ -3,27 +3,9 @@
 
 <h2 align="center">Hey, I'm Philipp 👋</h2>
 
-<p align="center">
-  Founder of <strong>PolixerRPG</strong> — minecraft rpg for java and bedrock.
-  <br />
-</p>
 
 ---
 
-## 🚀 Polixer RPG
-
-<table>
-  <tr>
-    <td><img src="./logo.jpg" width="48" alt="PolixerRPG" /></td>
-    <td>
-      <strong>Founder & Developer</strong><br />
-      <em>PolixerRPG</em><br />
-      Minecraft RPG for both editions.
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📊 GitHub Stats
 
